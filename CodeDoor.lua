@@ -4,7 +4,7 @@ local sides = require("sides")
 local event = require("event")
 local fs = require("filesystem")
 local serialization = require("serialization")
-local component = require("componet")
+local component = require("component")
 local unicode = require("unicode")
 gpu = component.gpu
 
